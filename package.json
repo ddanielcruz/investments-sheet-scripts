@@ -1,0 +1,16 @@
+{
+  "name": "investment-sheet-scripts",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {},
+  "dependencies": {
+    "@fast-csv/format": "^4.3.5",
+    "axios": "^1.6.2",
+    "dayjs": "^1.11.10",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.202",
+    "tsx": "^4.7.0"
+  }
+}
