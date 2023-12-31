@@ -2,7 +2,9 @@
   "name": "investment-sheet-scripts",
   "type": "module",
   "version": "1.0.0",
-  "scripts": {},
+  "scripts": {
+    "start:esip": "tsx src/extract-status-invest-prices.ts"
+  },
   "dependencies": {
     "@fast-csv/format": "^4.3.5",
     "axios": "^1.6.2",
