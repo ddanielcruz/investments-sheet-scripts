@@ -8,5 +8,10 @@
     "name": "SELIC 2027",
     "ticker": "Tesouro-Selic-2027",
     "type": "bond"
+  },
+  {
+    "name": "SELIC 2029",
+    "ticker": "Tesouro-Selic-2029",
+    "type": "bond"
   }
 ]
